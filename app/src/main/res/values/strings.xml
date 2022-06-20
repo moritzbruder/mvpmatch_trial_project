@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVPM Movies App</string>
+    <string name="activity_title_favorites">My Movies</string>
+    <string name="activity_title_movie_details">Movie Details</string>
+    <string name="error_cannot_open_movie">Could not open movie</string>
+    <string name="error_connection_lost">Internet connection lost.</string>
+    <string name="template_rating_summary">"Rated %1$s on %2$s"</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="error_cannot_load_movie">Sorry, we can\'t load this movie right now.</string>
+    <string name="favorite">Favorite</string>
+    <string name="hide_in_search">Hide in search</string>
+    <string name="section_header_details">DETAILS</string>
+    <string name="hint_search">Search…</string>
+    <string name="no_search_results">No search results</string>
+    <string name="error_search">Something went wrong while loading your search…</string>
+    <string name="retry">Retry</string>
+</resources>
